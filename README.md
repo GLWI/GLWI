@@ -6,4 +6,4 @@ Example:
 
 ```
 bash script/cora.sh
-'''
+```
